@@ -1,0 +1,45 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 3204.52" enable-background="new 0 0 1200 3204.52" xml:space="preserve">
+	
+	<g id="Layer_1" >
+		<image display="inline" overflow="visible" width="1246" height="2034" xlink:href="build/assets/photo-1.jpg"  transform="matrix(0.2197 0 0 0.2197 614.5107 969)">
+		</image>
+			<g display="inline"></g>
+			<rect x="789.51" y="560.81" display="inline" fill="#5E35B1" width="132" height="122"/>
+			<polygon display="inline" fill="#5E35B1" points="1107.51,808.81 791.51,808.81 789.51,686.81 1105.51,686.81 	"/>
+			<polygon display="inline" fill="#5E35B1" points="1161.51,936.81 791.51,936.81 789.51,814.81 1159.51,814.81 	"/>
+			<text transform="matrix(1 0 0 1 813.8428 663.5272)" display="inline" opacity="0.9"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="102.1199px">A</tspan><tspan x="0" y="122.54" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="102.1199px">Data</tspan><tspan x="0" y="245.09" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="102.1199px">Dance</tspan></text>
+			<image display="inline" overflow="visible" width="1246" height="2034" xlink:href="build/assets/photo-1.jpg"  transform="matrix(0.2197 0 0 0.2197 750.5107 1415)">
+			</image>
+		
+			<image display="inline" overflow="visible" width="1246" height="2034" xlink:href="build/assets/photo-1.jpg"  transform="matrix(0.2197 0 0 0.2197 612.5107 1862)">
+			</image>
+		
+			<image display="inline" overflow="visible" width="1246" height="2034" xlink:href="build/assets/photo-1.jpg"  transform="matrix(0.4406 0 0 0.4406 202.5107 2308)">
+			</image>
+		
+			<rect x="614.51" y="969" display="inline" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" fill="#BA83D4" width="273" height="446"/>
+		
+			<rect x="751.51" y="1417" display="inline" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" fill="#FFDCFF" width="273" height="446"/>
+		
+			<rect x="612.51" y="1862" display="inline" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" fill="#F18EB7" width="273" height="446"/>
+			
+			<polygon display="inline" opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" fill="#D43D51" points="751.51,3204 
+			202.51,3204.52 202.51,2310.01 750.05,2310.01 	"/>
+		
+			<image display="inline" overflow="visible" width="547" height="894" xlink:href="build/assets/example.gif"  transform="matrix(1 0 0 1 202.5107 76)">
+			</image>
+		</g>
+		<g id="appear">	
+			<g class="happy">
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#5E35B1" d="M354.44,1696H204.58c-6.67,0-12.07-5.4-12.07-12.07v-37.86
+				c0-6.67,5.4-12.07,12.07-12.07h149.86c6.67,0,12.07,5.4,12.07,12.07v37.86C366.51,1690.6,361.11,1696,354.44,1696z"/>
+				<text transform="matrix(1 0 0 1 201.9746 1618.9824)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="50px">From my </tspan><tspan x="0" y="60" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="50px">happy </tspan><tspan x="166.6" y="60" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="50px">days...</tspan></text>
+			</g>
+			<g class="sad">
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D43D51" d="M928.44,2887h-79.86c-6.67,0-12.07-5.4-12.07-12.07v-37.86
+				c0-6.67,5.4-12.07,12.07-12.07h79.86c6.67,0,12.07,5.4,12.07,12.07v37.86C940.51,2881.6,935.11,2887,928.44,2887z"/>
+				<text transform="matrix(1 0 0 1 878.3784 2814.9824)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="50px">...to my</tspan><tspan x="-32.5" y="60" fill="#FFFFFF" font-family="'ShipporiMinchoB1-ExtraBold'" font-size="50px">sad days</tspan></text>
+			</g>
+		</g>
+</svg>
