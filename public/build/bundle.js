@@ -7843,6 +7843,8 @@ var app = (function () {
     			video.controls = true;
     			video.autoplay = true;
     			video.muted = true;
+    			video.playsInline = true;
+    			video.loop = true;
     			if (video.src !== (video_src_value = "build/assets/video-end.mp4")) attr_dev(video, "src", video_src_value);
     			attr_dev(video, "class", "svelte-niradp");
     			add_location(video, file, 119, 2, 4152);

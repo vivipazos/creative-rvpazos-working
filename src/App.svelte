@@ -117,7 +117,7 @@
 
 		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
 
-		<video controls autoplay muted
+		<video controls autoplay muted playsinline loop
 		src="build/assets/video-end.mp4">
 		</video>
 	</div>
