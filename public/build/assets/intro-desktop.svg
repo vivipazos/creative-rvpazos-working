@@ -1,0 +1,32 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 2307.17" enable-background="new 0 0 700 2307.17" xml:space="preserve">
+<g id="images">
+	
+		<image overflow="visible" width="900" height="1200" xlink:href="build/assets/happy.jpg"  transform="matrix(0.5179 0 0 0.5179 -0.1691 0.0559)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.gif"  transform="matrix(0.51 0 0 0.51 337.9055 621.644)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/neutral.jpg"  transform="matrix(0.51 0 0 0.51 446 961.814)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/angry.jpg"  transform="matrix(0.51 0 0 0.51 331.9055 1300)">
+	</image>
+	<image overflow="visible" width="900" height="1200" xlink:href="build/assets/sad.jpg"  transform="matrix(0.5557 0 0 0.5557 -0.08 1640.23)">
+	</image>
+</g>
+<g id="intrp-text">
+	<text transform="matrix(1 0 0 1 14.9465 404.2217)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="50px" letter-spacing="25">DATA </tspan><tspan x="276.83" y="0" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="50px" letter-spacing="25">DANCING</tspan></text>
+</g>
+<g id="dskhappy_2_">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#5E35B1" d="M155.27,1149.43H59.2c-6.67,0-12.07-5.4-12.07-12.07v-19.05
+		c0-6.67,5.4-12.07,12.07-12.07h96.07c6.67,0,12.07,5.4,12.07,12.07v19.05C167.34,1144.03,161.94,1149.43,155.27,1149.43z"/>
+	<text transform="matrix(1 0 0 1 53.7249 1097.7842)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="34px">From my </tspan><tspan x="0" y="40.8" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="34px">happy </tspan></text>
+	<text transform="matrix(1 0 0 1 176.2868 1141.5563)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="34px">days...</text>
+</g>
+<g id="dsksad_2_">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#D43D51" d="M574.11,2034.07h-45.31c-6.67,0-12.07-5.4-12.07-12.07v-16.05
+		c0-6.67,5.4-12.07,12.07-12.07h45.31c6.67,0,12.07,5.4,12.07,12.07V2022C586.18,2028.67,580.78,2034.07,574.11,2034.07z"/>
+	<text transform="matrix(1 0 0 1 549.3821 1984.9082)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="34px">...to my</text>
+	<text transform="matrix(1 0 0 1 593.34 2025.5239)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="34px">days</text>
+	<text transform="matrix(1 0 0 1 522.2917 2025.5239)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="34px">sad</text>
+</g>
+</svg>

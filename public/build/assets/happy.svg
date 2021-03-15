@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 475 340" enable-background="new 0 0 475 340" xml:space="preserve">
+<text transform="matrix(1 0 0 1 277.8018 55.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Sense of purpose</text>
+<text transform="matrix(1 0 0 1 278.8018 95.251)" opacity="0.5" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">LOW</text>
+<text transform="matrix(1 0 0 1 420.252 95.251)" opacity="0.75" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">HIGH</text>
+<text transform="matrix(1 0 0 1 277.8018 155.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Stressful events</text>
+<text transform="matrix(1 0 0 1 425.7485 194.251)" opacity="0.5" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">LESS</text>
+<text transform="matrix(1 0 0 1 278.7772 194.251)" opacity="0.75" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">MORE</text>
+<text transform="matrix(1 0 0 1 277.8018 254.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Feelings</text>
+<text transform="matrix(1 0 0 1 278.8018 293.251)" opacity="0.5" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">NEGATIVE</text>
+<text transform="matrix(1 0 0 1 399.2432 293.251)" opacity="0.75" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">POSITIVE</text>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="397.1332" y1="269.4379" x2="449.4015" y2="269.4379">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.7066" style="stop-color:#55418A"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="397.13" y="266.92" fill="url(#SVGID_1_)" width="52.27" height="5.04"/>
+<rect x="279.11" y="266.92" opacity="0.5" fill="#FFFFFF" width="118.02" height="5.04"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="397.1332" y1="169.9386" x2="449.4015" y2="169.9386">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.7066" style="stop-color:#55418A"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="397.13" y="167.42" fill="url(#SVGID_2_)" width="52.27" height="5.04"/>
+<rect x="279.11" y="167.42" opacity="0.5" fill="#FFFFFF" width="118.02" height="5.04"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="397.1332" y1="70.4394" x2="449.4015" y2="70.4394">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.7066" style="stop-color:#55418A"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="397.13" y="67.92" fill="url(#SVGID_3_)" width="52.27" height="5.04"/>
+<rect x="279.11" y="67.92" opacity="0.5" fill="#FFFFFF" width="118.02" height="5.04"/>
+<image overflow="visible" width="900" height="1200" xlink:href="build/assets/happy.jpg"  transform="matrix(0.2833 0 0 0.2833 0 0)">
+</image>
+</svg>

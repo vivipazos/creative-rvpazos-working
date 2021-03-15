@@ -23,6 +23,9 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@fontsource/shippori-mincho-b1": "^4.2.2",
+    "@sveltejs/svelte-scroller": "^2.0.6",
+    "gsap": "^3.6.0",
     "sirv-cli": "^1.0.0",
     "svelte-inline-svg": "^1.0.8"
   }

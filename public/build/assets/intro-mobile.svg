@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 1233.92" enable-background="new 0 0 375 1233.92" xml:space="preserve">
+<g id="images">
+	<image overflow="visible" width="900" height="1200" xlink:href="build/assets/happy.jpg"  transform="matrix(0.277 0 0 0.277 -0.1691 0.0559)">
+	</image>
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.gif"  transform="matrix(0.2728 0 0 0.2728 180.6404 332.4943)">
+	</image>
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/neutral.jpg"  transform="matrix(0.2728 0 0 0.2728 238.4516 514.4244)">
+	</image>
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/angry.jpg"  transform="matrix(0.2728 0 0 0.2728 177.4314 695.2935)">
+	</image>
+	
+		<image overflow="visible" width="900" height="1200" xlink:href="build/assets/sad.jpg"  transform="matrix(0.2972 0 0 0.2972 -0.1214 877.2556)">
+	</image>
+</g>
+<g id="intrp-text">
+	<g>
+		<path fill="#FFFFFF" d="M28.41,171.19c0,3.57-0.98,6.33-2.95,8.26s-4.73,2.9-8.3,2.9h-6.93v-21.42h7.41
+			c3.44,0,6.09,0.88,7.96,2.64S28.41,167.87,28.41,171.19z M22.4,171.4c0-1.96-0.39-3.42-1.16-4.37s-1.96-1.42-3.54-1.42h-1.68v12
+			h1.29c1.76,0,3.05-0.51,3.87-1.53S22.4,173.5,22.4,171.4z"/>
+		<path fill="#FFFFFF" d="M57.39,182.36l-1.05-4.01h-6.96l-1.08,4.01h-6.36l6.99-21.5h7.72l7.08,21.5H57.39z M55.13,173.6
+			l-0.92-3.52c-0.21-0.78-0.48-1.79-0.78-3.03s-0.51-2.13-0.61-2.67c-0.09,0.5-0.26,1.32-0.52,2.46s-0.83,3.39-1.72,6.75H55.13z"/>
+		<path fill="#FFFFFF" d="M87.48,182.36h-5.79v-16.68h-5.23v-4.73h16.23v4.73h-5.21V182.36z"/>
+		<path fill="#FFFFFF" d="M120.89,182.36l-1.05-4.01h-6.96l-1.08,4.01h-6.36l6.99-21.5h7.72l7.08,21.5H120.89z M118.64,173.6
+			l-0.92-3.52c-0.21-0.78-0.48-1.79-0.78-3.03s-0.51-2.13-0.61-2.67c-0.09,0.5-0.26,1.32-0.52,2.46s-0.83,3.39-1.72,6.75H118.64z"/>
+		<path fill="#FFFFFF" d="M178.31,171.44c0,3.59-0.94,6.31-2.83,8.15s-4.65,2.76-8.31,2.76h-5.13v-21.42h5.79
+			c3.42,0,6.02,0.89,7.8,2.68S178.31,168.01,178.31,171.44z M176.68,171.5c0-3.07-0.78-5.37-2.34-6.92s-3.85-2.32-6.86-2.32h-3.94
+			v18.78h3.54C173.48,181.04,176.68,177.86,176.68,171.5z"/>
+		<path fill="#FFFFFF" d="M205.54,174.8h-8.7l-2.99,7.56h-1.66l8.61-21.5h0.95l8.44,21.5h-1.68L205.54,174.8z M197.38,173.45h7.66
+			l-2.92-7.72c-0.24-0.61-0.54-1.45-0.88-2.52c-0.26,0.94-0.55,1.79-0.86,2.55L197.38,173.45z"/>
+		<path fill="#FFFFFF" d="M240.8,182.36h-1.51l-12.69-19.01h-0.12c0.12,2.27,0.18,3.97,0.18,5.13v13.89h-1.44v-21.42h1.49
+			l12.67,18.98h0.09c-0.09-1.76-0.13-3.43-0.13-5.01v-13.97h1.45V182.36z"/>
+		<path fill="#FFFFFF" d="M268.01,161.98c-2.69,0-4.8,0.86-6.34,2.58s-2.31,4.07-2.31,7.06c0,3.06,0.73,5.43,2.18,7.12
+			s3.54,2.53,6.24,2.53c1.8,0,3.45-0.23,4.95-0.69v1.32c-1.42,0.5-3.18,0.75-5.3,0.75c-3.01,0-5.38-0.97-7.1-2.92
+			s-2.59-4.66-2.59-8.14c0-2.18,0.41-4.1,1.24-5.76s2.01-2.94,3.56-3.85s3.35-1.35,5.4-1.35c2.09,0,3.96,0.39,5.61,1.17l-0.6,1.35
+			C271.37,162.37,269.73,161.98,268.01,161.98z"/>
+		<path fill="#FFFFFF" d="M289.5,182.36v-21.42h1.49v21.42H289.5z"/>
+		<path fill="#FFFFFF" d="M324.63,182.36h-1.51l-12.69-19.01h-0.12c0.12,2.27,0.18,3.97,0.18,5.13v13.89h-1.44v-21.42h1.49
+			l12.67,18.98h0.09c-0.09-1.76-0.13-3.43-0.13-5.01v-13.97h1.45V182.36z"/>
+		<path fill="#FFFFFF" d="M351.12,171.56h7.9v9.77c-2.07,0.88-4.4,1.32-6.99,1.32c-3.38,0-5.97-0.95-7.77-2.86s-2.7-4.61-2.7-8.11
+			c0-2.18,0.45-4.11,1.34-5.79s2.17-2.99,3.84-3.9s3.58-1.38,5.73-1.38c2.33,0,4.43,0.43,6.28,1.29l-0.6,1.35
+			c-1.86-0.86-3.78-1.29-5.77-1.29c-2.82,0-5.06,0.87-6.72,2.61s-2.48,4.09-2.48,7.05c0,3.22,0.79,5.65,2.36,7.27
+			s3.88,2.44,6.93,2.44c1.97,0,3.65-0.28,5.02-0.83v-7.53h-6.37V171.56z"/>
+	</g>
+</g>
+<g id="dskhappy_2_">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#5E35B1" d="M77.87,614.77H36.68c-6.38,0-11.55-5.17-11.55-11.55v0
+		c0-6.38,5.17-11.55,11.55-11.55h41.19c6.38,0,11.55,5.17,11.55,11.55v0C89.42,609.6,84.25,614.77,77.87,614.77z"/>
+	<text transform="matrix(1 0 0 1 28.6543 587.144)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="18.1839px">From my </tspan><tspan x="0" y="21.82" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="18.1839px">happy </tspan></text>
+	<text transform="matrix(1 0 0 1 94.2031 610.5542)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="18.1839px">days...</text>
+</g>
+<g id="dsksad_2_">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#D43D51" d="M302.68,1087.89h-15.65c-5.94,0-10.75-4.81-10.75-10.75l0,0
+		c0-5.94,4.81-10.75,10.75-10.75h15.65c5.94,0,10.75,4.81,10.75,10.75l0,0C313.42,1083.08,308.61,1087.89,302.68,1087.89z"/>
+	<text transform="matrix(1 0 0 1 293.7427 1061.5967)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="18.1839px">...to my</text>
+	<text transform="matrix(1 0 0 1 317.252 1083.3193)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="18.1839px">days</text>
+	<text transform="matrix(1 0 0 1 279.2539 1083.3188)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="18.1839px">sad</text>
+</g>
+</svg>

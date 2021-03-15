@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 1432.92" enable-background="new 0 0 375 1432.92" xml:space="preserve">
+<g id="images">
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/neutral.jpg"  transform="matrix(0.253 0 0 0.253 10.0495 102.0059)">
+	</image>
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/neutral.jpg"  transform="matrix(0.253 0 0 0.253 227.7846 551.8907)">
+	</image>
+	
+		<image overflow="visible" width="900" height="1200" xlink:href="build/assets/happy.gif"  transform="matrix(0.1406 0 0 0.1406 141.3972 102.0059)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.jpg"  transform="matrix(0.253 0 0 0.253 9.9972 274.4457)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.jpg"  transform="matrix(0.253 0 0 0.253 141.2067 274.4457)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.jpg"  transform="matrix(0.253 0 0 0.253 96.437 551.8907)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/angry.jpg"  transform="matrix(0.253 0 0 0.253 96.437 726.6519)">
+	</image>
+	
+		<image overflow="visible" width="900" height="1200" xlink:href="build/assets/sad.jpg"  transform="matrix(0.1406 0 0 0.1406 227.7846 726.6519)">
+	</image>
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/neutral.jpg"  transform="matrix(0.253 0 0 0.253 192.7214 1061.0941)">
+	</image>
+	
+		<image overflow="visible" width="500" height="667" xlink:href="build/assets/angry.jpg"  transform="matrix(0.253 0 0 0.253 61.3738 1061.0941)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.jpg"  transform="matrix(0.253 0 0 0.253 61.3738 1237.0009)">
+	</image>
+	<image overflow="visible" width="500" height="667" xlink:href="build/assets/ok.jpg"  transform="matrix(0.253 0 0 0.253 192.7214 1237.0009)">
+	</image>
+	
+		<text transform="matrix(1 0 0 1 69.1411 110.1665)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">8am</text>
+	
+		<text transform="matrix(1 0 0 1 200.5415 110.1665)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">9am</text>
+	<text transform="matrix(1 0 0 1 14.956 287.7534)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">10am</text>
+	
+		<text transform="matrix(1 0 0 1 146.3559 287.7534)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">11am</text>
+	
+		<text transform="matrix(1 0 0 1 101.2043 562.5085)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">12pm</text>
+	
+		<text transform="matrix(1 0 0 1 101.2043 739.4534)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">2pm</text>
+	
+		<text transform="matrix(1 0 0 1 232.7096 741.2697)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">3pm</text>
+	
+		<text transform="matrix(1 0 0 1 66.1411 1076.2012)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">4pm</text>
+	
+		<text transform="matrix(1 0 0 1 66.2465 1252.1079)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">6pm</text>
+	
+		<text transform="matrix(1 0 0 1 197.6464 1252.1079)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">7pm</text>
+	
+		<text transform="matrix(1 0 0 1 232.6047 562.0471)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">1pm</text>
+	
+		<text transform="matrix(1 0 0 1 197.5415 1075.7402)" opacity="0.8" fill="#19202B" font-family="'Open Sans'" font-weight="300" font-size="12px">5pm</text>
+</g>
+<g id="time">
+	<g>
+		<text transform="matrix(1 0 0 1 147.2049 76.8905)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">8am - 12pm</text>
+		<g>
+			<path fill="#FFFFFF" d="M195.66,55.49c0-3.75-3.09-6.84-6.84-6.84c-3.75,0-6.84,3.06-6.84,6.84 M184,55.49
+				c0-2.66,2.16-4.82,4.82-4.82c2.66,0,4.82,2.16,4.82,4.82"/>
+			<path fill="#FFFFFF" d="M188.82,46.09c0.56,0,1-0.47,1-1v-4.39c0-0.56-0.47-1-1-1c-0.53,0-1,0.47-1,1v4.35
+				C187.82,45.62,188.25,46.09,188.82,46.09z"/>
+			<path fill="#FFFFFF" d="M180.74,48.85c0.2,0.2,0.47,0.3,0.7,0.3s0.53-0.1,0.7-0.3c0.4-0.4,0.4-1.03,0-1.43l-3.09-3.09
+				c-0.4-0.4-1.03-0.4-1.43,0c-0.4,0.4-0.4,1.03,0,1.43L180.74,48.85z"/>
+			<path fill="#FFFFFF" d="M204.54,55.49c0-0.56-0.47-1-1-1h-29.51c-0.56,0-1,0.47-1,1s0.47,1,1,1h29.48
+				C204.07,56.49,204.54,56.06,204.54,55.49z"/>
+			<path fill="#FFFFFF" d="M196.19,49.15c0.27,0,0.53-0.1,0.7-0.3l3.09-3.09c0.4-0.4,0.4-1.03,0-1.43c-0.4-0.4-1.03-0.4-1.43,0
+				l-3.09,3.09c-0.4,0.4-0.4,1.03,0,1.43C195.66,49.05,195.93,49.15,196.19,49.15z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 146.7142 526.5532)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">12pm - 4pm</text>
+		<g>
+			<path fill="#FFFFFF" d="M184.95,485.82c-3.14,0-5.72,2.55-5.72,5.72c0,3.14,2.55,5.72,5.72,5.72s5.72-2.58,5.72-5.72
+				C190.67,488.4,188.08,485.82,184.95,485.82z M184.95,495.56c-2.22,0-4.03-1.8-4.03-4.03c0-2.22,1.8-4.03,4.03-4.03
+				c2.22,0,4.03,1.8,4.03,4.03C188.97,493.76,187.17,495.56,184.95,495.56z"/>
+			<path fill="#FFFFFF" d="M184.95,483.68c0.47,0,0.83-0.39,0.83-0.83v-3.67c0-0.47-0.39-0.83-0.83-0.83s-0.83,0.39-0.83,0.83v3.64
+				C184.11,483.29,184.47,483.68,184.95,483.68z"/>
+			<path fill="#FFFFFF" d="M178.2,485.98c0.17,0.17,0.39,0.25,0.58,0.25s0.44-0.08,0.58-0.25c0.33-0.33,0.33-0.86,0-1.19l-2.58-2.58
+				c-0.33-0.33-0.86-0.33-1.19,0c-0.33,0.33-0.33,0.86,0,1.19L178.2,485.98z"/>
+			<path fill="#FFFFFF" d="M177.09,491.53c0-0.47-0.39-0.83-0.83-0.83h-3.67c-0.47,0-0.83,0.39-0.83,0.83
+				c0,0.44,0.39,0.83,0.83,0.83h3.64C176.7,492.37,177.09,492.01,177.09,491.53z"/>
+			<path fill="#FFFFFF" d="M178.2,497.09l-2.58,2.58c-0.33,0.33-0.33,0.86,0,1.19c0.17,0.17,0.39,0.25,0.58,0.25
+				s0.44-0.08,0.58-0.25l2.58-2.58c0.33-0.33,0.33-0.86,0-1.19C179.06,496.76,178.53,496.76,178.2,497.09z"/>
+			<path fill="#FFFFFF" d="M184.95,499.39c-0.47,0-0.83,0.39-0.83,0.83v3.64c0,0.47,0.39,0.83,0.83,0.83s0.83-0.39,0.83-0.83v-3.61
+				C185.78,499.78,185.42,499.39,184.95,499.39z"/>
+			<path fill="#FFFFFF" d="M191.69,497.09c-0.33-0.33-0.86-0.33-1.19,0c-0.33,0.33-0.33,0.86,0,1.19l2.58,2.58
+				c0.17,0.17,0.39,0.25,0.58,0.25s0.44-0.08,0.58-0.25c0.33-0.33,0.33-0.86,0-1.19L191.69,497.09z"/>
+			<path fill="#FFFFFF" d="M197.3,490.7h-3.64c-0.47,0-0.83,0.39-0.83,0.83c0,0.44,0.39,0.83,0.83,0.83h3.64
+				c0.47,0,0.83-0.39,0.83-0.83C198.14,491.09,197.75,490.7,197.3,490.7z"/>
+			<path fill="#FFFFFF" d="M191.11,486.23c0.22,0,0.44-0.08,0.58-0.25l2.58-2.58c0.33-0.33,0.33-0.86,0-1.19
+				c-0.33-0.33-0.86-0.33-1.19,0l-2.58,2.58c-0.33,0.33-0.33,0.86,0,1.19C190.67,486.15,190.89,486.23,191.11,486.23z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 152.9433 1038.571)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">4pm -8pm</text>
+		<g opacity="0.5">
+			<path fill="#FFFFFF" d="M190.57,996.56c-0.26,0.06-0.53,0.12-0.79,0.2c-0.65,0.2-1.28,0.48-1.91,0.84
+				c-0.02,0.02-0.05,0.04-0.07,0.05c-2.28,1.33-3.8,3.44-4.43,5.81c-0.63,2.35-0.37,4.95,0.93,7.23c0.01,0.02,0.02,0.05,0.04,0.08
+				c1.33,2.27,3.45,3.8,5.81,4.43c2.38,0.63,4.98,0.36,7.28-0.96c0.67-0.39,1.24-0.8,1.75-1.26c0.2-0.19,0.39-0.38,0.57-0.59
+				c-1.6-0.06-3.19-0.48-4.63-1.23c-1.76-0.92-3.28-2.33-4.34-4.17c-1.06-1.84-1.53-3.87-1.45-5.84
+				C189.4,999.55,189.82,997.99,190.57,996.56z M189.42,995.61c0.74-0.23,1.51-0.37,2.28-0.43c0.13-0.01,0.27,0.01,0.39,0.1
+				c0.27,0.19,0.35,0.57,0.16,0.85c-1.05,1.51-1.64,3.28-1.72,5.09c-0.07,1.76,0.33,3.56,1.28,5.2s2.31,2.88,3.86,3.69
+				c1.61,0.85,3.44,1.22,5.27,1.06c0.13-0.01,0.26,0.02,0.38,0.1c0.27,0.19,0.36,0.56,0.17,0.85c-0.44,0.67-0.94,1.26-1.52,1.78
+				c-0.57,0.51-1.21,0.97-1.95,1.4c-2.58,1.49-5.53,1.8-8.2,1.09c-2.67-0.72-5.07-2.45-6.56-5.03v-0.01
+				c-1.49-2.58-1.79-5.52-1.08-8.19c0.72-2.68,2.45-5.08,5.03-6.56l0,0C187.95,996.17,188.68,995.85,189.42,995.61z"/>
+		</g>
+	</g>
+</g>
+<g id="annotation-1">
+	<g>
+		<g>
+			<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M245.39,129.99c19.39-15.35,48.74-20.14,63.92-3.39"/>
+			<g>
+				<polygon fill="#FFFFFF" points="253.09,131.92 253.24,130.43 245.88,129.69 247.16,122.4 245.68,122.14 244.13,131.02 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 276.4683 148.4956)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">Pancakes</tspan><tspan x="0" y="19" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">with </tspan><tspan x="32.01" y="19" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="15px">rainbow</tspan><tspan x="0" y="38" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">sprinkles for</tspan><tspan x="0" y="57" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">breakfast.</tspan></text>
+</g>
+<g id="annotation-2">
+	<g>
+		<g>
+			<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M250.96,884.34c-11.59,42.9-62.4,54.78-130.24,39.53"/>
+			<g>
+				<polygon fill="#FFFFFF" points="243.62,887.36 244.38,888.65 250.74,884.88 254.04,891.5 255.38,890.83 251.37,882.77 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 50.4498 921.8492)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Open Sans'" font-weight="700" font-size="15px">Lonely</tspan><tspan x="0" y="19" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">afternoon</tspan><tspan x="0" y="38" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="15px">studying.</tspan></text>
+</g>
+</svg>

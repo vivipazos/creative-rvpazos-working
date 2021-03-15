@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 252.47" enable-background="new 0 0 375 252.47" xml:space="preserve">
+<text transform="matrix(1 0 0 1 197.8018 26.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Sense of purpose</text>
+<text transform="matrix(1 0 0 1 198.8018 65.251)" opacity="0.5" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">LOW</text>
+<text transform="matrix(1 0 0 1 340.252 65.251)" opacity="0.75" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">HIGH</text>
+<text transform="matrix(1 0 0 1 197.8018 116.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Stressful events</text>
+<text transform="matrix(1 0 0 1 343.2673 154.251)" opacity="0.5" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">LESS</text>
+<text transform="matrix(1 0 0 1 199.2734 154.251)" opacity="0.75" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">MORE</text>
+<text transform="matrix(1 0 0 1 197.8018 205.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Feelings</text>
+<text transform="matrix(1 0 0 1 198.8018 243.251)" opacity="0.5" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">NEGATIVE</text>
+<text transform="matrix(1 0 0 1 319.2432 243.251)" opacity="0.75" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="11px">POSITIVE</text>
+<g>
+	<rect x="251.37" y="37.92" opacity="0.5" fill="#FFFFFF" width="118.03" height="5.04"/>
+	
+		<linearGradient id="SVGID_1111_" gradientUnits="userSpaceOnUse" x1="595.1605" y1="105.4803" x2="647.4287" y2="105.4803" gradientTransform="matrix(-1 0 0 -1 846.5347 145.9197)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+		<stop  offset="0.7066" style="stop-color:#D43D51"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1111_)" points="199.11,37.92 251.37,37.92 251.37,42.96 199.11,42.96 	"/>
+</g>
+<g>
+	<rect x="251.37" y="127.42" opacity="0.5" fill="#FFFFFF" width="118.03" height="5.04"/>
+	
+		<linearGradient id="SVGID_2222_" gradientUnits="userSpaceOnUse" x1="595.1605" y1="108.8702" x2="647.4287" y2="108.8702" gradientTransform="matrix(-1 0 0 -1 846.5347 238.8088)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+		<stop  offset="0.7066" style="stop-color:#D43D51"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_2222_)" points="199.11,127.42 251.37,127.42 251.37,132.46 199.11,132.46 	"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_3333_" gradientUnits="userSpaceOnUse" x1="378.4738" y1="113.3285" x2="430.7421" y2="113.3285" gradientTransform="matrix(1 0 0 1 -118.0272 106.1094)">
+		<stop  offset="0" style="stop-color:#FCF1F2;stop-opacity:0.5262"/>
+		<stop  offset="0.0452" style="stop-color:#F7D9DD;stop-opacity:0.5691"/>
+		<stop  offset="0.1604" style="stop-color:#EAA2AB;stop-opacity:0.6784"/>
+		<stop  offset="0.2674" style="stop-color:#E17684;stop-opacity:0.7799"/>
+		<stop  offset="0.3629" style="stop-color:#DA5768;stop-opacity:0.8706"/>
+		<stop  offset="0.4434" style="stop-color:#D64457;stop-opacity:0.947"/>
+		<stop  offset="0.4993" style="stop-color:#D43D51"/>
+		<stop  offset="0.5541" style="stop-color:#D64659;stop-opacity:0.9481"/>
+		<stop  offset="0.6419" style="stop-color:#DB5D6E;stop-opacity:0.865"/>
+		<stop  offset="0.7517" style="stop-color:#E48390;stop-opacity:0.7611"/>
+		<stop  offset="0.878" style="stop-color:#EFB8BF;stop-opacity:0.6416"/>
+		<stop  offset="1" style="stop-color:#FCF1F2;stop-opacity:0.5262"/>
+	</linearGradient>
+	<rect x="260.45" y="216.92" fill="url(#SVGID_3333_)" width="52.27" height="5.04"/>
+	
+		<rect x="199.11" y="216.92" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 459.5526 438.8758)" opacity="0.5" fill="#FFFFFF" width="61.34" height="5.04"/>
+	
+		<rect x="312.71" y="216.92" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 682.1163 438.8758)" opacity="0.5" fill="#FFFFFF" width="56.69" height="5.04"/>
+</g>
+<image overflow="visible" width="900" height="1200" xlink:href="build/assets/sad.jpg"  transform="matrix(0.2104 0 0 0.2104 0 0)">
+</image>
+</svg>

@@ -1,46 +1,152 @@
+<svelte:head>
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&family=Shippori+Mincho+B1:wght@400;800&display=swap");
+    </style>
+</svelte:head>
+
 <script>
+	
 	import InlineSVG from 'svelte-inline-svg';
-	const introDesktop = 'build/assets/3-vaccines.svg';
-	const introMobile = 'build/assets/mobile.svg';
+
+	// desktop
+	const introDesktop = 'build/assets/intro-desktop.svg';
+	const happySVG = 'build/assets/happy.svg';
+	const angrySVG = 'build/assets/angry.svg';
+	const monthSVG = 'build/assets/month.svg';
+	const daySVG = 'build/assets/day.svg';
+
+	// mobile
+	const introMobile = 'build/assets/intro-mobile.svg';
+	const happySVGmobile = 'build/assets/happy-mobile.svg';
+	const angrySVGmobile = 'build/assets/angry-mobile.svg';
+	const monthSVGmobile = 'build/assets/month-mobile.svg';
+	const daySVGmobile = 'build/assets/day-mobile.svg';
+
+	import { gsap } from "gsap";
+	import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+	gsap.registerPlugin(ScrollTrigger);
+
+	const scrolltext = document.querySelector('.scrolltext')
+
+	ScrollTrigger.create({
+  	trigger: scrolltext,
+  	start: "top center",
+  	end: "+=500",
+  	onToggle: self => console.log("toggled. active?", self.isActive)
+	});
+
+	// import Scroller from '@sveltejs/svelte-scroller';
+	// let index, offset, progress;
+
 </script>
-
-<main>
-	<!-- Intro SVG -->
-	<div class="introDesktop">
-		<InlineSVG src={introDesktop}/>
-	</div>
-
-	<div class="introMobile">
-		<InlineSVG src={introMobile}/>
-	</div>
-
-	<div class="header">
-		<h1>60 days, 60 moves</h1>
-		<p class="deck">An exploration of emotions, tracked with data, visualised through dance.</p>
-		<p class="byline">By Rebecca Pazos</p>
-	</div>
-</main>
-
-<div class="introDesktop">
+ 
+<div class="desktop">
 	<InlineSVG src={introDesktop}/>
 </div>
 
-<div class="introMobile">
+<div class="mobile">
 	<InlineSVG src={introMobile}/>
 </div>
 
+<main>
+	<div class="header">
+		<h1>50 days, 50&nbsp;moves</h1>
+		<p class="deck">An exploration of emotions, tracked with data, visualised through dance.</p>
+		<p class="byline">By Rebecca Pazos</p>
+	</div>
+
+	<div class="body">
+		<p>Dance like no-one's watching and the world might just start to feel right again.
+		<p>In my exploration of gathering personal data for 60 days, I discovered a new-found appreciation for the art of just dancing without a care in the world. My mission was to explore how mental health was quantified into academic study, how human emotions can be given a number on a range, stripping it of all it's nuance and meaning. Furthermore, how those numbers could then be used to make assumptions about someone's mental state.</p>
+		<p>The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+
+		<h2>The anatomy of a <strong>happy</strong> day...</h2>
+
+		<div class="legendSVG">
+			<div class="desktop">
+			<InlineSVG src={happySVG}/>
+			</div>
+
+			<div class="mobile">
+			<InlineSVG src={happySVGmobile}/>
+			</div>
+		</div>
+
+		
+		
+		<h2>...compared with a <strong>not so happy</strong> day...</h2>
+
+		<div class="legendSVG">
+			<div class="desktop">
+			<InlineSVG src={angrySVG}/>
+			</div>
+			<div class="mobile">
+			<InlineSVG src={angrySVGmobile}/>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="section2">
+		<h2>Not every hour of a day is equal. In just one day, I could go through many emotions.</h2>
+		
+		<div class="desktop">
+			<InlineSVG src={daySVG}/>
+		</div>
+
+		<div class="mobile">
+			<InlineSVG src={daySVGmobile}/>
+		</div>
+		
+		<h2>Not every hour of a day is <strong>equal</strong>. In just one day, I could go through many emotions.</h2>
+
+		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+
+		<div class="desktop">
+			<InlineSVG src={monthSVG}/>
+		</div>
+
+		<div class="mobile">
+			<InlineSVG src={monthSVGmobile}/>
+		</div>
+
+		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+
+		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+
+		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+
+		<video controls autoplay muted
+		src="build/assets/video-end.mp4">
+		</video>
+	</div>
+
+</main>
+
+
+
+<!-- <Scroller top={0.2} bottom={0.8} bind:index bind:offset bind:progress>
+	<div slot="background">
+	  <p>
+		This is the background content. It will stay fixed
+		in place while the foreground scrolls over the top.
+	  </p>
+  
+	  <p>Section {index + 1} is currently active.</p>
+	</div>
+  
+	<div slot="foreground">
+	  <section>This is the first section.</section>
+	  <section>This is the second section.</section>
+	  <section>This is the third section.</section>
+	</div>
+</Scroller> -->
+
 <style>
 	:global(html) {
-		background-color: #2E2E2E;
+		background-color: #19242f;
 
-	}
-
-	@font-face {
-  	font-family: 'Shippori Mincho B1';
-  	font-style: normal;
-  	font-weight: 400;
-  	src: url(https://fonts.gstatic.com/s/shipporiminchob1/v1/wXK2E2wCr44tulPdnn-xbIpJ9RgT9-nyi6Bt1lLn-HUc0VRK7IRQKVBVk2q4mR-HHfOC.0.woff2) format('woff2');
-  	unicode-range: U+25ee8, U+25f23, U+25f5c, U+25fd4, U+25fe0, U+25ffb, U+2600c, U+26017, U+26060, U+260ed, U+26222, U+2626a, U+26270, U+26286, U+2634c, U+26402, U+2667e, U+266b0, U+2671d, U+268dd, U+268ea, U+26951, U+2696f, U+26999, U+269dd, U+26a1e, U+26a58, U+26a8c, U+26ab7, U+26aff, U+26c29, U+26c73, U+26c9e, U+26cdd, U+26e40, U+26e65, U+26f94, U+26ff6-26ff8, U+270f4, U+2710d, U+27139, U+273da-273db, U+273fe, U+27410, U+27449, U+27614-27615, U+27631, U+27684, U+27693, U+2770e, U+27723, U+27752, U+278b2, U+27985, U+279b4, U+27a84, U+27bb3, U+27bbe, U+27bc7, U+27c3c, U+27cb8, U+27d73, U+27da0, U+27e10, U+27eaf, U+27fb7, U+2808a, U+280bb, U+28277, U+28282, U+282f3, U+283cd, U+2840c, U+28455, U+284dc, U+2856b, U+285c8-285c9, U+286d7, U+286fa, U+28946, U+28949, U+2896b, U+28987-28988, U+289ba-289bb, U+28a1e, U+28a29, U+28a43, U+28a71, U+28a99, U+28acd, U+28add, U+28ae4, U+28bc1, U+28bef, U+28cdd, U+28d10, U+28d71, U+28dfb, U+28e0f, U+28e17, U+28e1f, U+28e36, U+28e89, U+28eeb, U+28ef6, U+28f32, U+28ff8, U+292a0, U+292b1, U+29490, U+295cf, U+2967f, U+296f0, U+29719, U+29750, U+29810, U+298c6, U+29a72, U+29d4b, U+29ddb, U+29e15, U+29e3d, U+29e49, U+29e8a, U+29ec4, U+29edb, U+29ee9, U+29fce, U+29fd7, U+2a01a, U+2a02f, U+2a082, U+2a0f9, U+2a190, U+2a2b2, U+2a38c, U+2a437, U+2a5f1, U+2a602, U+2a61a, U+2a6b2, U+2a9e6, U+2b746, U+2b751, U+2b753, U+2b75a, U+2b75c, U+2b765, U+2b776-2b777, U+2b77c, U+2b782, U+2b789, U+2b78b, U+2b78e, U+2b794, U+2b7ac, U+2b7af, U+2b7bd, U+2b7c9, U+2b7cf, U+2b7d2, U+2b7d8, U+2b7f0, U+2b80d, U+2b817, U+2b81a, U+2d544, U+2e278, U+2e569, U+2e6ea, U+2f804, U+2f80f, U+2f815, U+2f818, U+2f81a, U+2f822, U+2f828, U+2f82c, U+2f833, U+2f83f, U+2f846, U+2f852, U+2f862, U+2f86d, U+2f873, U+2f877, U+2f884, U+2f899-2f89a, U+2f8a6, U+2f8ac, U+2f8b2, U+2f8b6, U+2f8d3, U+2f8db-2f8dc, U+2f8e1, U+2f8e5, U+2f8ea, U+2f8ed, U+2f8fc, U+2f903, U+2f90b, U+2f90f, U+2f91a, U+2f920-2f921, U+2f945, U+2f947, U+2f96c, U+2f995, U+2f9d0, U+2f9de-2f9df, U+2f9f4;
 	}
 	
 	main {
@@ -48,54 +154,86 @@
 		padding: 1em;
 		max-width: 1200px;
 		margin: 0 auto;
-		font-family:'Shippori Mincho B1';
+		font-family: 'Open Sans', sans-serif;
 		color: white;
 	}
 
+	.body {
+		text-align: left;
+		padding: 1em;
+		margin: 0 auto;
+		font-size: 22px;
+		line-height: 30px;
+		font-weight: 300;
+		font-family: 'Open Sans', sans-serif;
+		max-width: 700px;
+	}
 	.header {
 		display:inline-block;
 		max-width: 600px;
 	}
 	h1 {
 		color: white;
-		font-family:'Shippori Mincho B1';
+		font-family: 'Open Sans', sans-serif;
 		font-size: 5em;
-		font-weight: 400;
+		font-weight: 700;
 		text-align: center;
+		line-height: 1em;
+	}
+
+	h2 {
+		font-weight: 300;
+		line-height: 1.3em;
+		max-width: 700px;
+		margin: 0 auto;
+		text-align: left;
+		font-size: 30px;
+		padding: 1.3em 0 1em 0;
 	}
 
 	p.deck {
 		font-weight: 200;
-		font-size:2em;
+		font-size: 2em;
+		opacity: 0.8;
+
 	}
 	
 	p.byline {
 		font-weight: 100;
-		font-size:2em;
+		font-size: 1.5em;
+		opacity: 0.5;
 	}
 
-	.introDesktop  {
+	.desktop  {
 		display: none;
 		min-width: 480px;
 	}
 
-	.introMobile {
+	.mobile {
 		display: block;
 		/* max-width: 480px; */
 	}
 	
-	@media screen and (max-width: 480px) {
-		.introDesktop {
-			display: none;
-		}
-	}
-	
 	@media screen and (min-width:480px){
-		.introMobile {
+		.mobile {
 			display: none;
 		}
-		.introDesktop {
+		.desktop {
 			display:block;
 		}
 	}
+
+	.legendSVG {
+		max-width: 600px;
+		margin: 50px 0;
+	}
+
+	.extraPadding {
+		padding-bottom: 40px;
+	}
+
+	video {
+		max-width: 300px;
+	}
+	/* section { height: 80vh; } */
 </style>
