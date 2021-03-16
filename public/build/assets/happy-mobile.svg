@@ -11,23 +11,23 @@
 <text transform="matrix(1 0 0 1 197.8018 205.292)" fill="#FFFFFF" font-family="'Open Sans'" font-weight="300" font-size="20px">Feelings</text>
 <text transform="matrix(1 0 0 1 198.8018 244.2511)" opacity="0.5" fill="#FFFFFF" enable-background="new    " font-family="'Open Sans'" font-weight="300" font-size="14px">NEGATIVE</text>
 <text transform="matrix(1 0 0 1 311.5088 244.2511)" opacity="0.75" fill="#FFFFFF" enable-background="new    " font-family="'Open Sans'" font-weight="300" font-size="14px">POSITIVE</text>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="317.13" y1="32.9143" x2="369.4" y2="32.9143" gradientTransform="matrix(1 0 0 -1 0 253.3544)">
+<linearGradient id="SVGID_111_" gradientUnits="userSpaceOnUse" x1="317.13" y1="32.9143" x2="369.4" y2="32.9143" gradientTransform="matrix(1 0 0 -1 0 253.3544)">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 	<stop  offset="0.7066" style="stop-color:#55418A"/>
 </linearGradient>
-<rect x="317.13" y="217.92" fill="url(#SVGID_1_)" width="52.27" height="5.04"/>
+<rect x="317.13" y="217.92" fill="url(#SVGID_111_)" width="52.27" height="5.04"/>
 <rect x="199.11" y="217.92" opacity="0.5" fill="#FFFFFF" enable-background="new    " width="118.02" height="5.04"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="317.44" y1="122.4143" x2="369.71" y2="122.4143" gradientTransform="matrix(1 0 0 -1 0 253.3544)">
+<linearGradient id="SVGID_222_" gradientUnits="userSpaceOnUse" x1="317.44" y1="122.4143" x2="369.71" y2="122.4143" gradientTransform="matrix(1 0 0 -1 0 253.3544)">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 	<stop  offset="0.7066" style="stop-color:#55418A"/>
 </linearGradient>
-<rect x="317.44" y="128.42" fill="url(#SVGID_2_)" width="52.27" height="5.04"/>
+<rect x="317.44" y="128.42" fill="url(#SVGID_222_)" width="52.27" height="5.04"/>
 <rect x="199.41" y="128.42" opacity="0.5" fill="#FFFFFF" enable-background="new    " width="118.02" height="5.04"/>
-<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="317.13" y1="211.9143" x2="369.4" y2="211.9143" gradientTransform="matrix(1 0 0 -1 0 253.3544)">
+<linearGradient id="SVGID_333_" gradientUnits="userSpaceOnUse" x1="317.13" y1="211.9143" x2="369.4" y2="211.9143" gradientTransform="matrix(1 0 0 -1 0 253.3544)">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 	<stop  offset="0.7066" style="stop-color:#55418A"/>
 </linearGradient>
-<rect x="317.13" y="38.92" fill="url(#SVGID_3_)" width="52.27" height="5.04"/>
+<rect x="317.13" y="38.92" fill="url(#SVGID_333_)" width="52.27" height="5.04"/>
 <rect x="199.11" y="38.92" opacity="0.5" fill="#FFFFFF" enable-background="new    " width="118.02" height="5.04"/>
 <image overflow="visible" enable-background="new    " width="900" height="1200" xlink:href="build/assets/happy.jpg"  transform="matrix(0.2104 0 0 0.2104 0 2.162667e-05)">
 </image>

@@ -19,7 +19,7 @@
 		<image overflow="visible" enable-background="new    " width="900" height="1200" xlink:href="build/assets/sad.jpg"  transform="matrix(0.2972 0 0 0.2972 -0.1214 967.3117)">
 	</image>
 </g>
-<g id="intrp-text" transform="translate(0 50)">
+<g id="intrp-text" transform="translate(5 50)">
 	<g>
 		<path fill="#FFFFFF" d="M28.4,171.2c0,3.6-1,6.3-3,8.3s-4.7,2.9-8.3,2.9h-6.9v-21.4h7.4c3.4,0,6.1,0.9,8,2.6
 			S28.4,167.9,28.4,171.2z M22.4,171.4c0-2-0.4-3.4-1.2-4.4s-2-1.4-3.5-1.4H16v12h1.3c1.8,0,3-0.5,3.9-1.5S22.4,173.5,22.4,171.4z"

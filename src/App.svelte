@@ -162,8 +162,8 @@
 	.section1, .section2 {
 		text-align: left;
 		margin: 0 auto;
-		font-size: 18;
-		line-height: 28px;
+		font-size: 18px;
+		line-height: 26px;
 		font-weight: 300;
 		font-family: 'Open Sans', sans-serif;
 		max-width: 700px;
