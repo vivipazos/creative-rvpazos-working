@@ -1,6 +1,6 @@
 <svelte:head>
     <style>
-        @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&family=Shippori+Mincho+B1:wght@400;800&display=swap");
+        @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap");
     </style>
 </svelte:head>
 
@@ -22,23 +22,6 @@
 	const monthSVGmobile = 'build/assets/month-mobile.svg';
 	const daySVGmobile = 'build/assets/day-mobile.svg';
 
-	import { gsap } from "gsap";
-	import { ScrollTrigger } from "gsap/ScrollTrigger";
-
-	gsap.registerPlugin(ScrollTrigger);
-
-	const scrolltext = document.querySelector('.scrolltext')
-
-	ScrollTrigger.create({
-  	trigger: scrolltext,
-  	start: "top center",
-  	end: "+=500",
-  	onToggle: self => console.log("toggled. active?", self.isActive)
-	});
-
-	// import Scroller from '@sveltejs/svelte-scroller';
-	// let index, offset, progress;
-
 </script>
  
 <div class="desktop">
@@ -58,10 +41,12 @@
 
 	<div class="section1">
 		<p>Dance like no-one's watching and the world might just start to feel right again.
-		<p>In my exploration of gathering personal data for 60 days, I discovered a new-found appreciation for the art of just dancing without a care in the world. My mission was to explore how mental health was quantified into academic study, how human emotions can be given a number on a range, stripping it of all it's nuance and meaning. Furthermore, how those numbers could then be used to make assumptions about someone's mental state.</p>
-		<p>The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+		<p>In my exploration of gathering personal data for 50 days, I discovered a new-found appreciation for the art of just dancing without a care in the world.</p>
+		<p>My mission? To explore how <strong>mental health</strong> is quantified during academic study. I wanted to know how human emotions can be given a number, stripped of all it's nuance and meaning. Furthermore, how those numbers could then be used to make assumptions about someone's mental health.</p>
+		<p>The following is an exploration of three data points I recorded daily; my sense of purpose, my positive and negative emotions, and any stressful events like arguments or discrimination.</p>
+		<p class="endPar">Using this data, I then encoded these three points into 5 possible moods: <strong>happy, ok, neutral, sad</strong> and finally, <strong>upset</strong>. Each mood has a certain colour and dance step inspired by Laban Movement Analysis techniques.</p>
 
-		<h2>The anatomy of a <strong>happy</strong> day...</h2>
+		<h2>Breaking down a <strong>happy</strong> day...</h2>
 
 		<div class="legendSVG">
 			<div class="desktop">
@@ -73,9 +58,7 @@
 			</div>
 		</div>
 
-		
-		
-		<h2>...compared with a <strong>not so happy</strong> day...</h2>
+		<h2>...compared with a <strong>not so happy</strong> day.</h2>
 
 		<div class="legendSVG">
 			<div class="desktop">
@@ -89,8 +72,7 @@
 	</div>
 
 	<div class="section2">
-		<h2>Not every hour of a day is equal. In just one day, I could go through many emotions.</h2>
-		
+		<h2>I found my moods could change <strong>every hour</strong> and for all sorts of reasons.</h2>
 		<div class="desktop">
 			<InlineSVG src={daySVG}/>
 		</div>
@@ -98,10 +80,9 @@
 		<div class="mobile">
 			<InlineSVG src={daySVGmobile}/>
 		</div>
+		<p>This was one Sunday that ended up being a 'neutral' day overall because my sense of purpose was quite low and I was feeling lonely. If it wasn't for the fancy pancakes, it might have been a sadder day.</p>
 		
-		<h2>Not every hour of a day is <strong>equal</strong>. In just one day, I could go through many emotions.</h2>
-
-		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+		<h2>It seems that <strong>Sundays</strong> are my sadder days. Towards the end, my son had his birthday and this lifted my spirits.</h2>
 
 		<div class="desktop">
 			<InlineSVG src={monthSVG}/>
@@ -111,11 +92,19 @@
 			<InlineSVG src={monthSVGmobile}/>
 		</div>
 
-		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+		<p>I was also coming out of a work funk in the beginning and ended on a career high so this helped boost my overall sense of purpose.</p>
 
-		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+		<h2>Why did I encode <strong>data into dance</strong>? It turns out, dancing can help boost your mental health too.</h2>
 
-		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
+		<p>This is based entirely on a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6052784/#CIT0021">study that measures how one's</a> "Sense of Purpose Moderates the Assocations between Daily Stressors and Daily Well-being". These data points are then encoded and indexed against my own averages for the 50 days. </p>
+			
+		<p>The dance moves are inspired by <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01389/full">Laban Movmement Analysis</a> techniques to portray emotions. For example, the 'happy' movement comes forward in the frame and uses higher hand gestures where the 'upset' movement steps backward in the frame and lowers the head to portray sadness.</p>
+
+		<p>Finally, I was also inspired by Australian influencer, <a href="https://www.instagram.com/shani.chantel/?hl=en">Shani Chantel</a>, who lives and breathes all things female empowerment. She began a movement called <strong>Free Your Shit Fridays</strong> that urges women to let themselves dance to their favourite music in their underwear, with their kids on their hips and feel the freedom that comes with dancing.</p>
+			
+		<p>Apparently, just listening to music doesn't have quite the same effect but singing can help too!</p>
+
+		<h2>Go on, throw on your favourite tune, belt out that ballad and <strong>shake what your mama gave you!</strong></h2>
 
 		<video controls autoplay muted playsinline loop
 		src="build/assets/video-end_4.mp4"
@@ -168,6 +157,14 @@
 		font-family: 'Open Sans', sans-serif;
 		max-width: 700px;
 	}
+
+	a {
+		font-family: 'Open Sans', sans-serif;
+		color: white;
+		text-decoration: underline;
+		font-weight: 300;
+	}
+
 	.header {
 		display:inline-block;
 		max-width: 600px;
@@ -222,6 +219,10 @@
 
 	video {
 		width: 100%;
+	}
+
+	.endPar {
+		padding-bottom: 40px;
 	}
 
 	@media only screen and (min-width:600px){
