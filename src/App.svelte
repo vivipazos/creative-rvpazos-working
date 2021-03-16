@@ -118,7 +118,7 @@
 		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
 
 		<video controls autoplay muted playsinline loop
-		src="build/assets/video-end.mp4"
+		src="build/assets/video-end_4.mp4"
 		poster="build/assets/poster.jpg">
 		</video>
 	</div>
@@ -146,7 +146,7 @@
 
 <style>
 	:global(html) {
-		background-color: #19242f;
+		background-color: #253243;
 
 	}
 	
@@ -162,8 +162,8 @@
 	.section1, .section2 {
 		text-align: left;
 		margin: 0 auto;
-		font-size: 22px;
-		line-height: 30px;
+		font-size: 18;
+		line-height: 28px;
 		font-weight: 300;
 		font-family: 'Open Sans', sans-serif;
 		max-width: 700px;
@@ -220,10 +220,6 @@
 		margin: 50px 0;
 	}
 
-	.extraPadding {
-		padding-bottom: 40px;
-	}
-
 	video {
 		width: 100%;
 	}
@@ -234,21 +230,19 @@
 		}
 		.desktop {
 			display:block;
+			max-width: 1200px;
+			margin: 0 auto;
 		}
 		video{
 			width: 300px;
 			padding: 0 200px;
 
 		}
-
-		.main {
-			padding: 0;
-			margin:0;
-		}
-
 		.section2, .section1 {
 			width: 100%;
 			margin: 0 auto;
+			font-size: 22px;
+			line-height: 30px;
 		}
 
 		h1 {
