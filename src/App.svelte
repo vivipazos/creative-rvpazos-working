@@ -56,7 +56,7 @@
 		<p class="byline">By Rebecca Pazos</p>
 	</div>
 
-	<div class="body">
+	<div class="section1">
 		<p>Dance like no-one's watching and the world might just start to feel right again.
 		<p>In my exploration of gathering personal data for 60 days, I discovered a new-found appreciation for the art of just dancing without a care in the world. My mission was to explore how mental health was quantified into academic study, how human emotions can be given a number on a range, stripping it of all it's nuance and meaning. Furthermore, how those numbers could then be used to make assumptions about someone's mental state.</p>
 		<p>The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
@@ -118,7 +118,8 @@
 		<p class="body">The following is an exploration of three data points taken on each day for almost 60 days; my sense of purpose, my positive and negative emotions and my stressors - arguments, difficulties.</p>
 
 		<video controls autoplay muted playsinline loop
-		src="build/assets/video-end.mp4">
+		src="build/assets/video-end.mp4"
+		poster="build/assets/poster.jpg">
 		</video>
 	</div>
 
@@ -151,16 +152,15 @@
 	
 	main {
 		text-align: center;
-		padding: 1em;
 		max-width: 1200px;
+		width:100%;
 		margin: 0 auto;
 		font-family: 'Open Sans', sans-serif;
 		color: white;
 	}
 
-	.body {
+	.section1, .section2 {
 		text-align: left;
-		padding: 1em;
 		margin: 0 auto;
 		font-size: 22px;
 		line-height: 30px;
@@ -171,14 +171,16 @@
 	.header {
 		display:inline-block;
 		max-width: 600px;
+		width:100%;
 	}
 	h1 {
 		color: white;
 		font-family: 'Open Sans', sans-serif;
-		font-size: 5em;
+		font-size: 3em;
 		font-weight: 700;
 		text-align: center;
 		line-height: 1em;
+		padding: 0 auto;
 	}
 
 	h2 {
@@ -188,19 +190,17 @@
 		margin: 0 auto;
 		text-align: left;
 		font-size: 30px;
-		padding: 1.3em 0 1em 0;
 	}
 
 	p.deck {
 		font-weight: 200;
-		font-size: 2em;
+		font-size: 1.5em;
 		opacity: 0.8;
-
 	}
 	
 	p.byline {
 		font-weight: 100;
-		font-size: 1.5em;
+		font-size: 1em;
 		opacity: 0.5;
 	}
 
@@ -211,16 +211,8 @@
 
 	.mobile {
 		display: block;
+		width: 100%;
 		/* max-width: 480px; */
-	}
-	
-	@media screen and (min-width:480px){
-		.mobile {
-			display: none;
-		}
-		.desktop {
-			display:block;
-		}
 	}
 
 	.legendSVG {
@@ -233,7 +225,39 @@
 	}
 
 	video {
-		max-width: 300px;
+		width: 100%;
+	}
+
+	@media only screen and (min-width:600px){
+		.mobile {
+			display: none;
+		}
+		.desktop {
+			display:block;
+		}
+		video{
+			width: 300px;
+			padding: 0 200px;
+
+		}
+
+		.main {
+			padding: 0;
+			margin:0;
+		}
+
+		.section2, .section1 {
+			width: 100%;
+			margin: 0 auto;
+		}
+
+		h1 {
+			font-size: 80px
+		}
+
+		h2 {
+			padding: 1.3em 0 1em 0;
+		}
 	}
 	/* section { height: 80vh; } */
 </style>

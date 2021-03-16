@@ -22,7 +22,7 @@
 		<image overflow="visible" width="500" height="667" xlink:href="build/assets/angry.jpg"  transform="matrix(0.253 0 0 0.253 327.0691 259.2987)">
 	</image>
 	
-		<image overflow="visible" width="900" height="1200" xlink:href="build/assets/sad.jpg"  transform="matrix(0.1406 0 0 0.1406 458.4168 259.2987)">
+		<image overflow="visible" width="900" height="1200" xlink:href="build/assets/sad.gif"  transform="matrix(0.1406 0 0 0.1406 458.4168 259.2987)">
 	</image>
 	
 		<image overflow="visible" width="500" height="667" xlink:href="build/assets/neutral.jpg"  transform="matrix(0.253 0 0 0.253 195.7214 431.7386)">
