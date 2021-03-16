@@ -110,6 +110,8 @@
 		src="build/assets/video-end_4.mp4"
 		poster="build/assets/poster.jpg">
 		</video>
+
+		<p class="About">This page was created by Rebecca Pazos for her final project in the creative module for her Masters for Visual Tools with the University of Girona. If you would like to connect with her, she is available on <a href="https://www.linkedin.com/in/rebeccapazos">LinkedIn</a> and <a href="https://twitter.com/vivi_pazos">Twitter</a>. </p> 
 	</div>
 
 </main>
@@ -225,6 +227,13 @@
 		padding-bottom: 40px;
 	}
 
+	.About {
+		font-size: 15px;
+		opacity: 0.7;
+		line-height: 20px;
+		margin: 0 auto;
+		padding-top: 50px;
+	}
 	@media only screen and (min-width:600px){
 		.mobile {
 			display: none;
