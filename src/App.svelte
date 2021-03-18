@@ -233,6 +233,7 @@
 		line-height: 20px;
 		margin: 0 auto;
 		padding-top: 50px;
+		padding-bottom: 50px;
 	}
 	@media only screen and (min-width:600px){
 		.mobile {
@@ -261,6 +262,10 @@
 
 		h2 {
 			padding: 1.3em 0 1em 0;
+		}
+
+		.About {
+			padding-bottom: 30px;
 		}
 	}
 	/* section { height: 80vh; } */
