@@ -265,7 +265,7 @@
 		}
 
 		.About {
-			padding-bottom: 30px;
+			padding-bottom: 15px;
 		}
 	}
 	/* section { height: 80vh; } */
