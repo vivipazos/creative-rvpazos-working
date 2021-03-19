@@ -224,7 +224,7 @@
 	}
 
 	.endPar {
-		padding-bottom: 40px;
+		padding-bottom: 10px;
 	}
 
 	.About {
@@ -265,7 +265,7 @@
 		}
 
 		.About {
-			padding-bottom: 15px;
+			padding-bottom: 40px;
 		}
 	}
 	/* section { height: 80vh; } */
